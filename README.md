@@ -1,5 +1,5 @@
 <div align="center">
-# https://hun-bot.github.io/
+ <h2>https://hun-bot.github.io/</h2>
 </div>
 
 <div align="center">
