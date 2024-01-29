@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mute # the main title
+title: 로봇이 만드는 눈사람 # the main title
 
 tagline: 2024-01 => # it will display as the sub-title
 
