@@ -1,0 +1,69 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>로봇이 만드는 눈사람</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-01-29T16:56:23+09:00</updated>
+  <author>
+    <name>Jeong Hun</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Jeong Hun </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>초 거대 언어모델 연구 동향</title>
+    <link href="http://localhost:4000/posts/Temp/" rel="alternate" type="text/html" title="초 거대 언어모델 연구 동향" />
+    <published>2024-01-23T00:09:00+09:00</published>
+  
+    <updated>2024-01-23T00:42:43+09:00</updated>
+  
+    <id>http://localhost:4000/posts/Temp/</id>
+    <content src="http://localhost:4000/posts/Temp/" />
+    <author>
+      <name>Jeong Hun</name>
+    </author>
+
+  
+    
+    <category term="paper" />
+    
+    <category term="computer" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      초 거대 언어모델 연구 동향
+
+
+
+
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11610124
+박찬준, 이원성, 김윤기, 김지후, 이활석. (2023). 초거대 언어모델 연구 동향. 정보과학회지, 41(11), 8-24.
+
+
+##
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
