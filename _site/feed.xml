@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>로봇이 만드는 눈사람</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-01-29T16:56:23+09:00</updated>
+  <updated>2024-02-05T17:28:36+09:00</updated>
   <author>
     <name>Jeong Hun</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,50 @@
 
   
   <entry>
+    <title>C언어 프로그래밍 01 []</title>
+    <link href="http://localhost:4000/posts/C_programming/" rel="alternate" type="text/html" title="C언어 프로그래밍 01 []" />
+    <published>2024-02-05T16:30:00+09:00</published>
+  
+    <updated>2024-02-05T16:30:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/C_programming/</id>
+    <content src="http://localhost:4000/posts/C_programming/" />
+    <author>
+      <name>Jeong Hun</name>
+    </author>
+
+  
+    
+    <category term="C" />
+    
+    <category term="Langauge" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      C언어
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>초 거대 언어모델 연구 동향</title>
     <link href="http://localhost:4000/posts/Temp/" rel="alternate" type="text/html" title="초 거대 언어모델 연구 동향" />
     <published>2024-01-23T00:09:00+09:00</published>
   
-    <updated>2024-01-23T00:42:43+09:00</updated>
+    <updated>2024-01-29T16:56:32+09:00</updated>
   
     <id>http://localhost:4000/posts/Temp/</id>
     <content src="http://localhost:4000/posts/Temp/" />
