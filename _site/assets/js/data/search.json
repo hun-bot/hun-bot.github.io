@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "C언어 프로그래밍 01 []",
+    "url": "/posts/C_programming/",
+    "categories": "C, Langauge",
+    "tags": "C, Langauge",
+    "date": "2024-02-05 16:30:00 +0900",
+    
+
+
+
+
+
+    
+    "snippet": "C언어",
+    "content": "C언어"
+  },
+  
+  {
     "title": "초 거대 언어모델 연구 동향",
     "url": "/posts/Temp/",
     "categories": "paper, computer",
