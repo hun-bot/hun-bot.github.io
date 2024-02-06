@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>로봇이 만드는 눈사람</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-02-05T17:35:42+09:00</updated>
+  <subtitle>안녕하세요!</subtitle>
+  <updated>2024-02-06T11:17:35+09:00</updated>
   <author>
     <name>Jeong Hun</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,52 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>인공지능에서 인공감정으로</title>
+    <link href="http://localhost:4000/posts/Paper01/" rel="alternate" type="text/html" title="인공지능에서 인공감정으로" />
+    <published>2024-02-06T00:10:00+09:00</published>
+  
+    <updated>2024-02-06T00:10:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/Paper01/</id>
+    <content src="http://localhost:4000/posts/Paper01/" />
+    <author>
+      <name>Jeong Hun</name>
+    </author>
+
+  
+    
+    <category term="paper" />
+    
+    <category term="computer" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      인공지능에서 인공감정으로
+
+
+
+
+  천현득. (2017). 인공 지능에서 인공 감정으로. 철학, 131, 217-243, 10.18694/KJP.2017.05.131.217
+
+
+내가 글을 쓰는 시점인 2024-02-06 아직도 화두 되는 주제이다. 2016 알파고와 이세돌의 바둑 대결 이후로 일반인들의 인공지능에 대한 관심이 많아지고 있으며 동시에 “내 직업이 미래에는 인공지능으로 대체되지 않을까?”라는 생각을 한 번쯤은 했다고 생각한다. 오늘 올라온 뉴스만 하더라도 미국 빅테크 기업에서 엔지니어 및 개발진들을 대거 해고하고 있고 AI 추가 기능 개발에 필요한 필수 인력들만 남겨두면서 점점 개발진들의 자리가 없어지고 있다고 한다.
+
+AI가 고도화되어서 사람처럼 사고하고 사람을 대신해서 사람과 협업할 수...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -51,52 +97,6 @@
       C언어
 
 
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>초 거대 언어모델 연구 동향</title>
-    <link href="http://localhost:4000/posts/Temp/" rel="alternate" type="text/html" title="초 거대 언어모델 연구 동향" />
-    <published>2024-01-23T00:09:00+09:00</published>
-  
-    <updated>2024-01-29T16:56:32+09:00</updated>
-  
-    <id>http://localhost:4000/posts/Temp/</id>
-    <content src="http://localhost:4000/posts/Temp/" />
-    <author>
-      <name>Jeong Hun</name>
-    </author>
-
-  
-    
-    <category term="paper" />
-    
-    <category term="computer" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      초 거대 언어모델 연구 동향
-
-
-
-
-  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11610124
-박찬준, 이원성, 김윤기, 김지후, 이활석. (2023). 초거대 언어모델 연구 동향. 정보과학회지, 41(11), 8-24.
-
-
-##
 
     </summary>
   
