@@ -1,7 +1,6 @@
 <div align="center">
  <h2>블로그 주소 : https://hun-bot.github.io/</h2>
- <p><b>블로그의 방향성 : 100% 문자<br>
- 기록 위주로 올립니다.
+ <p><b>발자취<br
  </b></p>
 </div>
 
